@@ -1,3 +1,3 @@
 public class Theme {
-    public static String color = "red";
+    public static String color = "green";
 }
